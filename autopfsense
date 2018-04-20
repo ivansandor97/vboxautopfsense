@@ -25,7 +25,7 @@
  
 ## The name of your VM
  
-vmname="UbuntuServer2"
+vmname="PfSenseAuto"
  
  
 ## VM operating system and ISO file
