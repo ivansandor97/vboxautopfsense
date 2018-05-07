@@ -25,7 +25,7 @@
  
 ## The name of your VM
  
-vmname="PfSenseAuto"
+vmname="pfSense"
  
  
 ## VM operating system and ISO file
@@ -44,7 +44,7 @@ vram="128"
  
 ## Hard disk size in MB
  
-hddsize="16000"
+hddsize="10000"
  
  
 ## Vrde port range (RDP)
